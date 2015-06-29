@@ -1,0 +1,7 @@
+It actually saves a lot of time as you don't have to manually scroll out the whole pages and see what went wrong when you edited the file
+As when we have access to entire history we can easily access the older files for comparing with new files
+pros of manually creating commit is that whenever u want to create a commit according to logic u can create it.cons of manually creating commit is sometimes we forget to create commit
+saving linking files commonly is better as it allows to treat files comonly whereas in google docs as these files are treated separately it does not benefit at all
+git log command give the whole versions saved on commit andgit diff compares two commit
+we can restore to any previous version at any time using git checkout
+i want to use git for just comparing different versions of my website changes that i will make and restore to them
