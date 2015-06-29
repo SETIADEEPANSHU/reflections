@@ -1,0 +1,2 @@
+when we initialise a repository it shows that you have created an empty repository with no files traced .we create repository so as to keep track of files and their different versions.
+staging area is different from repository and working directory in the way that the staging area is a place where you add things to be committed whereas working directory simply stores all things and repository is a collection of commits
